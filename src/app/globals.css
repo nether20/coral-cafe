@@ -51,3 +51,13 @@ ul {
 .bottom-list {
   padding-bottom: 50px;
 }
+
+img {
+  margin: auto;
+  width: 250px;
+}
+
+.back {
+  text-align: left;
+  margin: 20px;
+}
